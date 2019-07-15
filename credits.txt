@@ -1,0 +1,53 @@
+CREDITS
+--------
+
+
+SPRITES:
+
+Health/armor sprites - originals created by ZeroInfections at <http-//charas-project.net/>; modified by Isaac Wardlaw
+
+Item sprite - ripped from Illusion of Gaia by Meiscool at <http-//charas-project.net/>
+
+Explosion sprite - ripped from Golden Sun by Zirdec, recovered at <http-//www.spriters-resource.com>
+
+Boss sprite - created by dgbaumgart at <http-//fractalsoftworks.com/2010/11/29/art-ship-design-the-onslaught/>; modified by Isaac Wardlaw
+
+
+
+MUSIC:
+
+bgm0 - [Appleseed] "Bringing Home the Appleseed" by DigiE at <http-//www.animeremix.org/>; modified by Isaac Wardlaw
+
+bgm1 - [Naruto] "Alone" by Electric Concerto at <http-//www.animeremix.org/>; modified by Isaac Wardlaw
+
+bgm2 - [Mario Paint] "Intense Color" by sephire and SuperGreenX at <http-//ocremix.org/>; modified by Isaac Wardlaw
+
+bgm3 - [Tetris] "Thirty-Plus Mix" by R3FORGED at <http-//ocremix.org/>; modified by Isaac Wardlaw
+
+bgm4 - [Final Fantasy VII] "Deliverance of the Heart" by pixietricks and zircon at <http-//ocremix.org/>
+
+gameOver - untitled by Isaac Wardlaw
+
+
+
+SOUNDS:
+
+All sounds composed of elements from the libraries of RPG Maker 2003 and FruityLoops 3 and mixed by Isaac Wardlaw
+
+
+
+PRODUCTION:
+
+Visual editing - Microsoft Paint, GraphicsGale, and Microsoft Office 2010
+
+Audio editing - FruityLoops 3 and Audacity
+
+Coding - Microsoft Visual C++ Express 2010 and Microsoft Visual Studio 2010
+
+GUI - Simple DirectMedia Layer
+
+
+
+SOURCE MEDIA:
+
+Source media that were modified and that are freely available are included in a folder in the project.

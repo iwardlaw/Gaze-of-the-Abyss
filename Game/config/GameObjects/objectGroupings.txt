@@ -1,0 +1,8 @@
+# These are the object types associated with each level objective. Each
+# objective should be on one line, with the list of objects following
+# it. Delimit with spaces.
+
+CLEAR    AST NPC ATK DEF
+KILL     NPC ATK DEF
+COLLECT  ITEM
+BOSS     BOSS

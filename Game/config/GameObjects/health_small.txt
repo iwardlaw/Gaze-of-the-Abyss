@@ -1,0 +1,10 @@
+IMAGEPATH=./images/collectible9s.png
+HEIGHT=21
+WIDTH=21
+NUMSPRITES=3
+NROWS=1
+NCOLS=3
+RMAPKEY=192
+GMAPKEY=192
+BMAPKEY=192
+RADARRESOURCEPATH=./config/RadarObjects/health_small.txt

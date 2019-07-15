@@ -1,0 +1,4 @@
+TITLE=Main
+SHOWTITLE=FALSE
+PARENT=NULL
+ITEMPATHS=test.txt,cookie.txt,bacon.txt

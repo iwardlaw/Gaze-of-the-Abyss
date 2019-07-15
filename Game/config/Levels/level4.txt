@@ -1,0 +1,7 @@
+OBJECTIVE BOSS
+BGM_INTRO ./music/bgm2_intro.wav
+BGM_LOOP  ./music/bgm2_loop.wav
+BOSS 1 0 -5000 0
+ATK 1 -400 -200 0
+ATK 1 400 -200 0
+ATK 1 0 600 0

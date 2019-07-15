@@ -1,0 +1,16 @@
+# This file relies on the format <resource ID> <num> <x> <y> <spread>
+BGM_INTRO ./music/bgm0_intro.wav
+BGM_LOOP  ./music/bgm0_loop.wav
+AST 30 -300 -100 2500
+DEF 1 2500 -2500 0
+AST 10 2500 -2500 2000
+HEALTH_SM 1 -200 -200 0
+HEALTH_MD 1 -250 -250 0
+HEALTH_LG 1 -300 -300 0
+HEALTH_FL 1 -350 -350 0
+ARMOR 1 -400 -400 0
+#AST 1 300 -300 0
+#AST 1 267 -333 0
+ATK 1 1500 -300 0
+BOSS 1 0 -4000 0
+ITEM 1 100 0 0

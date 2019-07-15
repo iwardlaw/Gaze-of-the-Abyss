@@ -1,0 +1,52 @@
+# Level files rely on a strict format.
+#
+# The objective line must contain the word 'OBJECTIVE' followed by the
+# objective type and either a numerical argument or the word 'ALL'. For
+# example, this level's objective is to clear all objects, so the
+# objective type is 'CLEAR', and the argument is 'ALL'; alternatively,
+# the number '4' could appear after 'CLEAR', since there are four
+# objects in the level. Note that the numerical argument may be less
+# than the number of objects in the level; additionally, providing an
+# 'ALL' argument for a 'KILL' objective will only count the number of
+# enemies you list. THE NUMERICAL ARGUMENT (OR 'ALL') DOES NOT APPLY
+# TO A 'BOSS' OBJECTIVE: THE WORD 'BOSS' SHOULD TERMINATE THE LINE. If
+# the objective is 'BOSS', please only declare one boss object. You may
+# elect not to include an objective, but doing so is currently the only
+# way to advance through levels.
+#
+# Background music is specified on one or two lines, dependending on
+# whether there are separate introduction and looping sections to the
+# song. The (optional) intro section is specified by 'BGM_INTRO'
+# followed by the song's filepath (from the project folder). The
+# looping section is structured the same way, specified by 'BGM_LOOP'.
+# Music is not required, but if there is only one file to play,
+# it should be declared as a loop, as in 'level1.txt'.
+#
+# Level objects follow the format <resource ID> <num> <x> <y> <spread>.
+# The coordinates are based on screen position, so negative Y values
+# are higher, and positive ones are lower. Resource IDs must be strings
+# in the 'constants.h' file. Any new objects should have IDs added to
+# that file and factories added to 'Factory.h'.
+#
+# While the format of each line must be exact, the placement of lines
+# may vary.
+
+OBJECTIVE CLEAR ALL
+BGM_INTRO ./music/bgm0_intro.wav
+BGM_LOOP  ./music/bgm0_loop.wav
+AST 1 0 -100 0
+AST 1 0 -200 0
+AST 1 0 -300 0
+AST 1 0 -400 0
+#AST 1 0 100 0
+#AST 1 0 200 0
+#AST 1 0 300 0
+#AST 1 0 400 0
+#AST 1 -100 0 0
+#AST 1 -200 0 0
+#AST 1 -300 0 0
+#AST 1 -400 0 0
+#AST 1 100 0 0
+#AST 1 200 0 0
+#AST 1 300 0 0
+#AST 1 400 0 0

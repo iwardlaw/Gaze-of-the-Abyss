@@ -1,0 +1,5 @@
+FONTPATH=./fonts/impact.ttf
+SIZE=28
+RVALUE=0
+GVALUE=0
+BVALUE=0
